@@ -1,0 +1,6 @@
+requests
+PyGithub
+markdown2
+prettytable
+pandas
+python-dotenv
