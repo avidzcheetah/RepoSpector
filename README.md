@@ -2,7 +2,7 @@
 
 RepoSpector is a powerful GitHub repository analysis tool designed to evaluate repositories based on key aspects such as documentation quality, unresolved issues, pull requests, dependencies, security, and more. It automates the process of analyzing repositories and provides actionable insights, helping maintainers and contributors improve their codebases.
 
-![RepoSpector Screenshot](screenshot.png)
+![RepoSpector Screenshot](Screenshot.jpg)
 ## Features
 
 ### 1. Repository Documentation
